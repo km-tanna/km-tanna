@@ -64,7 +64,7 @@ My Current Workstation Specification </h2>
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FahimFBA" alt="km-tanna" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=km-tanna" alt="km-tanna" /></p>
 
 
 
