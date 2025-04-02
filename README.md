@@ -1,12 +1,5 @@
 <h2 align="center"> Hi 👋 , I'm Kinnari Tanna <br/></h2> 
-<h3 align="center"><br> <br>
-  <a href="https://github.com/km-tanna" target="_blank">
-  </a>
-  </h3> 
-      
-               
-     
-<div align="center">
+
 
 [![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
