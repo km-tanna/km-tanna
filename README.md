@@ -1,9 +1,9 @@
 <h2 align="center"> Hi 👋 , I'm Kinnari Tanna <br/></h2> 
 
 
-[![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/km-tanna/km-tanna/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/tanna/km-tanna/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/km-tanna/km-tanna/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/km-tanna/km-tanna/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/km-tanna/km-tanna/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 </div>
@@ -58,13 +58,13 @@ My Current Workstation Specification </h2>
 
 <h2>Connect with me!</h2>
  
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fahimfba/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/Fahim_FBA/)  [<img src = "https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://facebook.com/iptu.fba)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kinnari-tanna/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/enterwronglink/)  [<img src = "https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://facebook.com/iptu .fba)
 <br> <br>
 🌟 STAR THE REPOS IF YOU LIKE 🌟
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FahimFBA" alt="FahimFBA" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FahimFBA" alt="km-tanna" /></p>
 
 
 
@@ -85,9 +85,9 @@ My Current Workstation Specification </h2>
 <div align="center">
 
 
-:star: [HackerRank](https://www.hackerrank.com/FahimFBA) <br>
-:star: [Codechef](https://www.codechef.com/users/fahimfba)  <br>
-:star: [Leetcode](https://leetcode.com/FBA/) <br>
+:star: [HackerRank](https://www.hackerrank.com/kn-tanna) <br>
+:star: [Codechef](https://www.codechef.com/users/tanna)  <br>
+:star: [Leetcode](https://leetcode.com/tanna/) <br>
  <br>
 <i>Many more are coming soon...</i> :clap: </div> </details>
 	
@@ -99,7 +99,7 @@ My Current Workstation Specification </h2>
 <div align="center">
 	
 
-![FahimFBA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FahimFBA&layout=compact&theme=synthwave&v=2)
+![FahimFBA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=km-tanna&layout=compact&theme=synthwave&v=2)
 
 
 </div>
