@@ -1,8 +1,4 @@
 <h2 align="center"> Hi 👋 , I'm Kinnari Tanna <br/></h2> 
-
-<a href="https://madhurimarawat.github.io/Badger-Icons/" target="_blank">
-        
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/1b711871-eb4d-4c0a-8f9a-fc1ef55615c0" height=250 width=250 title="Female programer Illustration Gif" alt="Female programer Illustration Gif" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
