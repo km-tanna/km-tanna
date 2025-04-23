@@ -2,7 +2,8 @@
 <a><img src = "https://github.com/km-tanna/km-tanna/blob/main/KINNARI%20.TANNA_NameBlock.png" title = "NameBlock" alt = "NameBlock"></a>
 <br>
 </p>
-<a><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=Assistant+Manager+@_VOIS;Ex-B.Tech+Student+@KJ+Somaiya;Passionate+About+Data;Always+learning+new+things"></a>
+<a><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=This+is_me;Assistant+Manager+@_VOIS;
+	   Ex-B.Tech+Student+@KJ+Somaiya;Passionate+About+Data;Always+learning+new+things"></a>
 </p>
 <br>
   <img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/1b711871-eb4d-4c0a-8f9a-fc1ef55615c0" img align="right" height=350 width=350 title="Female programer Illustration Gif" alt="Female programer Illustration Gif" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
