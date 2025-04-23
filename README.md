@@ -1,7 +1,7 @@
 <h1 align="center"> Welcome to my Profile <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" height="35" /><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="65" alt="Animated hello Gif"></h1>
-<a><img src = "https://github.com/km-tanna/km-tanna/blob/main/KINNARI%20TANNA_NameBlock%20(1).png" title = "NameBlock" alt = "NameBlock"></a>
+<a><img src = "https://github.com/km-tanna/km-tanna/blob/main/KINNARI%20.TANNA_NameBlock.png" title = "NameBlock" alt = "NameBlock"></a>
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=Assistant+Manager+@_VOIS;Ex-B.Tech+Student+@KJ+Somaiya;Passionate+About+Data;Always+learning+new+things"></a>
+<a><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=Assistant+Manager+@_VOIS;Ex-B.Tech+Student+@KJ+Somaiya;Passionate+About+Data;Always+learning+new+things"></a>
 </p>
 <br>
   <img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/1b711871-eb4d-4c0a-8f9a-fc1ef55615c0" img align="right" height=350 width=350 title="Female programer Illustration Gif" alt="Female programer Illustration Gif" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
