@@ -1,5 +1,5 @@
 <h2 align="center"> Hi 👋 , I'm Kinnari Tanna <br/></h2> 
-  <img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/1b711871-eb4d-4c0a-8f9a-fc1ef55615c0" img align="right" height=500 width=500 title="Female programer Illustration Gif" alt="Female programer Illustration Gif" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/1b711871-eb4d-4c0a-8f9a-fc1ef55615c0" img align="right" height=450 width=450 title="Female programer Illustration Gif" alt="Female programer Illustration Gif" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 [![](https://raw.githubusercontent.com/km-tanna/km-tanna/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
