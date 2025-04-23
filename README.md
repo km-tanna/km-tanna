@@ -58,9 +58,7 @@
 :star: [HackerRank](https://www.hackerrank.com/kn-tanna) <br>
 :star: [Codechef](https://www.codechef.com/users/tanna)  <br>
 :star: [Leetcode](https://leetcode.com/tanna/) <br>
- <br>
-<i>Many more are coming soon...</i> :clap: </div> </details>
-	
+ <br>	
 	
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
