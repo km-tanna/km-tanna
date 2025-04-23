@@ -1,9 +1,18 @@
 <h2 align="center"> Hi 👋 , I'm Kinnari Tanna <br/></h2> 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><align="center" img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=Assistant+Manager+@_VOIS;Ex-B.Tech+Student+@KJ+Somaiya;Passionate+About+Data;Always+learning+new+things"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=Assistant+Manager+@_VOIS;Ex-B.Tech+Student+@KJ+Somaiya;Passionate+About+Data;Always+learning+new+things"></a>
 </p>
 <br>
   <img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/1b711871-eb4d-4c0a-8f9a-fc1ef55615c0" img align="right" height=350 width=350 title="Female programer Illustration Gif" alt="Female programer Illustration Gif" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+<p>Connect with me on
+<br>	
+  <a target="_blank" href="https://www.linkedin.com/in/kinnari-tanna/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="mailto:kinnari.t@somaiya.edu"
+><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+&emsp;
+<br>
+</p>
 
 [![](https://raw.githubusercontent.com/km-tanna/km-tanna/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/tanna/km-tanna/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/km-tanna/km-tanna/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
