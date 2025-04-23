@@ -9,40 +9,9 @@
 
 </div>
 
-<h2 align="center">
-Technologies and Languages </h2>
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat-square&logo=linux-mint&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white)
-![MarkDown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-
-![Microsoft Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
-<h3> + many more! </h3>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-<h2 align="center">
-My Current Workstation Specification </h2>
-
-<div align="center">
-	
-
-![CPU](https://img.shields.io/badge/AMD-Ryzen_5_3500X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-<br> 
-	
-![GPU](https://img.shields.io/badge/AMD-Radeon_RX_550-ED1C24?style=for-the-badge&logo=amd&logoColor=white) 
-
-
-
-</div>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -96,20 +65,3 @@ My Current Workstation Specification </h2>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-
-<div align="center">
-	
-
-![FahimFBA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=km-tanna&layout=compact&theme=synthwave&v=2)
-
-
-</div>
-
-
-<p align="center">
-
-<a href="https://github.com/km-tanna/github-readme-twitter">
-<img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=Fahim_FBA&layout=wide&show_reply=off&show_retweet=off" />
-</a>
-
-</p>
