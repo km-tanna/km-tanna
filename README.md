@@ -1,5 +1,5 @@
 <h2 align="center"> Hi 👋 , I'm Kinnari Tanna <br/></h2> 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=Sr.+Business+Analyst+@Capital+One+;Ex-MSBA+Student+@UT+Austin;Passionate+About+Data;Always+learning+new+things"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=Assistant+Manager+@_VOIS;Ex-B.Tech+Student+@KJ+Somaiya;Passionate+About+Data;Always+learning+new+things"></a>
 </p>
 <br>
   <img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/1b711871-eb4d-4c0a-8f9a-fc1ef55615c0" img align="right" height=350 width=350 title="Female programer Illustration Gif" alt="Female programer Illustration Gif" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
